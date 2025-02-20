@@ -42,7 +42,7 @@ const Header = () => {
 
   return (
     <div className="absolute top-0 left-0 w-full h-20 bg-gradient-to-b from-black to-transparent z-20 flex justify-between ">
-      <div className='h-20 w-32'>
+      <div className='h-20 w-40 pl-8'>
       <img src={LOGO} alt='netflixLogo'/>
       </div>
       <div>
